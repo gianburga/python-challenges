@@ -40,6 +40,8 @@ encoded message is terminated by 000 (which would signify a segment in which the
 keys have length 0). The message is decoded by translating the keys in the
 segments one-at-a-time into the header characters to which they have been mapped.
 
+https://www.codeeval.com/browse/36/
+
 """
 
 import sys

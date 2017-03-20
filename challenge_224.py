@@ -18,6 +18,8 @@ CONSTRAINTS:
 * If coordinates of a person fall into the prison line, print Prisoner (see input sample # 3).
 * The number of test cases is 20.
 
+https://www.codeeval.com/browse/224/
+
 """
 
 class Challenge224:
