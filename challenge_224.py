@@ -10,6 +10,14 @@ become better, or vice versa. Everyone has a right to make his own life choice.
 Your task is to find out where a person is—in jail or at large—depending
 on the coordinates.
 
+CONSTRAINTS:
+
+* All coordinates are from 0 to 10 and cannot be negative.
+* Coordinates of a prison should be united in the provided sequence (as shown on the picture).
+* The number of coordinates of a prison can be from 3 to 12.
+* If coordinates of a person fall into the prison line, print Prisoner (see input sample # 3).
+* The number of test cases is 20.
+
 """
 
 class Challenge224:
