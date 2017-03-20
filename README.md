@@ -1,1 +1,1 @@
-# Challenges 36 ad 224
+# Challenges 36 and 224
